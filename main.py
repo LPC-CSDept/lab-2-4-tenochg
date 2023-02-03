@@ -7,7 +7,7 @@ def main():
     sub2 = str[7:]
     print(sub1)
     print(sub2)
-    print(sub2+' '+sub1)
+    print(sub2+sub1)
     pass
 
 
